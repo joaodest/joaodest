@@ -1,7 +1,8 @@
 ### Hey there and welcome to my GitHub profile! 👋
-
-
+<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/joaodest)
+
+<br/><br/>
 
 ## Which tecnologies that i know?
 
@@ -14,6 +15,6 @@
   <img align="center" alt="kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   
 </div><br/>
-
+<br/>
 Love code something challenging as I love coffee!
 Graduating in Computing Science, i hope i can help you by some way. 
