@@ -15,4 +15,4 @@
 </div><br/>
 <br/>
 Love code something challenging as I love coffee!
-Graduating in Computing Science in PUC Minas, i hope i can help you by some way. 
+Graduating in Computing Science, i hope i can help you by some way. 
