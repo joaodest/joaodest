@@ -1,7 +1,8 @@
 ### Hey there and welcome to my GitHub profile! 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/joaodest)
 
-<br/>
+<br>
+
 ## Which technologies am I currently using?
 
 ## Back-end:
