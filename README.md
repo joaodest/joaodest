@@ -18,7 +18,6 @@
   <img align="center" alt="Angular" src ="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Blazor" src ="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)">
 
- <br>
  
 ## Mobile:
 
