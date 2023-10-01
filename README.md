@@ -3,7 +3,7 @@
 
 <br>
 
-## Which technologies am I currently using?
+### Which technologies am I currently using?
 
 ## Back-end:
 <div style="display: inline_block"><br/> 
