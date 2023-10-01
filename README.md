@@ -10,14 +10,16 @@
   <img align="center" alt="C#" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
-<br/>
+<br>
+
 ## Front-end:
 
 <div style="display: inline_block"><br/> 
   <img align="center" alt="Angular" src ="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Blazor" src ="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)">
 
- <br/>
+ <br>
+ 
 ## Mobile:
 
 <div style="display: inline_block"><br/> 
